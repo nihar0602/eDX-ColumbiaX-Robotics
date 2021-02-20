@@ -18,9 +18,9 @@ The projects in the course are heavily integerated and uses Robotic Operating Sy
 </p>
 
 <p>
-*Project-1: Introduction to ROS. Publish and Subscribe custom messages. 
-*Project-2: Introduction to transformations (TF) library in ROS. It consists basic example using the tf2 package for coordinate system's transformations.
-*Project-3: Implement Forward Kinematics on Kuka LWR 7-DOF robot arm from scratch using URDF file. 
-*Project-4: Implement Jacobian Computation and approach to Null Space control on Kuka LWR 7-DOF robot arm. 
-*Project-5: (Final Project) - Implement RRT algorithm from scratch on Kuka LWR 7-DOF robot. 
+* Project-1: Introduction to ROS. Publish and Subscribe custom messages. 
+* Project-2: Introduction to transformations (TF) library in ROS. It consists basic example using the tf2 package for coordinate system's transformations.
+* Project-3: Implement Forward Kinematics on Kuka LWR 7-DOF robot arm from scratch using URDF file.
+* Project-4: Implement Jacobian Computation and approach to Null Space control on Kuka LWR 7-DOF robot arm. 
+* Project-5: (Final Project) - Implement RRT algorithm from scratch on Kuka LWR 7-DOF robot. 
 </p>
