@@ -1,6 +1,6 @@
 # ColumbiaX-Robotics
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/EdX_Logo_R_Elm.png" alt="ub_logo.jpg" width="200" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/EdX_Logo_R_Elm.png" alt="ub_logo.jpg" width="200" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://prod-discovery.edx-cdn.org/organization/logos/3d8fc08e-339f-467a-a6c0-2b956ca5d6a0-797c0c6ddbc6.png" alt="ub_log.jpg"> <br>
 
   <b> Course offered by Professor David Doermann in Spring 2020 </b>
 </p>
