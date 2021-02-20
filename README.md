@@ -24,4 +24,4 @@ The projects in the course are heavily integerated and uses Robotic Operating Sy
 - **Project-5:** (Final Project) - Implement RRT algorithm from scratch on Kuka LWR 7-DOF robot. 
 
 ## Project -3 
-[![Kuka LWR: Forward Kinematics](https://yt-embed.herokuapp.com/embed?v=Bsem4LljTr0)](https://youtu.be/mbzWmFVfj4I "Forward Kinematics: Kuka LWR")
+[![Kuka LWR: Forward Kinematics](https://yt-embed.herokuapp.com/embed?v=Bsem4LljTr0)](https://youtu.be/Bsem4LljTr0 "Forward Kinematics: Kuka LWR")
