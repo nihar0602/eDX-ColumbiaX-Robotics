@@ -4,16 +4,21 @@
 </p>
 <img src="bar.jpg" alt="bar.jpg" width="1100" height="3"> <br>
 <p>This repo contains the files related to the projects i did the course.</p>
-***Course Name***: CSMM.103x 
+
+**Course Name:** CSMM.103x 
 <p> 
 In this course, various topics were covered that are essential to know when dealing with robotics.</p>
+
 <p> The course structure is divided into two Robot classes: (1) Manipulator Robots(Industrial Robots) & (2) Mobile Robots(Autonomous Driving).</p> 
+
 Topics for manipulator were cover like: Forward Kinematics, Inverse Kinematics, Jacobian Computation, Path planning algorithms for effecient pick and place operations. Introductory topics for mobile robots were presented into this course and also emphasis on path planning algorithms were made. 
+
 <p>
 The projects in the course are heavily integerated and uses Robotic Operating System(ROS) as the main platform. All the concepts learned in this course are implemented using ROS. A heavy learning curve increases if any individual in not aware how to use ROS. 
 </p>
-Project-1: Introduction to ROS. Publish and Subscribe custom messages. 
-Project-2: Introduction to transformations (TF) library in ROS. It consists basic example using the tf2 package for coordinate system's transformations.
-Project-3: Implement Forward Kinematics on Kuka LWR 7-DOF robot arm from scratch using URDF file. 
-Project-4: Implement Jacobian Computation and approach to Null Space control on Kuka LWR 7-DOF robot arm. 
-Project-5: (Final Project) - Implement RRT algorithm from scratch on Kuka LWR 7-DOF robot. 
+
+*Project-1: Introduction to ROS. Publish and Subscribe custom messages. 
+*Project-2: Introduction to transformations (TF) library in ROS. It consists basic example using the tf2 package for coordinate system's transformations.
+*Project-3: Implement Forward Kinematics on Kuka LWR 7-DOF robot arm from scratch using URDF file. 
+*Project-4: Implement Jacobian Computation and approach to Null Space control on Kuka LWR 7-DOF robot arm. 
+*Project-5: (Final Project) - Implement RRT algorithm from scratch on Kuka LWR 7-DOF robot. 
