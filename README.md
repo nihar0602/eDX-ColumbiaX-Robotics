@@ -23,5 +23,13 @@ The projects in the course are heavily integerated and uses Robotic Operating Sy
 - **Project-4:** Implement Jacobian Computation and approach to Null Space control on Kuka LWR 7-DOF robot arm. 
 - **Project-5:** (Final Project) - Implement RRT algorithm from scratch on Kuka LWR 7-DOF robot. 
 
+<img src="bar.jpg" alt="bar.jpg" width="1100" height="3"> <br>
+
 ## Project -3 
 [![Kuka LWR: Forward Kinematics](https://yt-embed.herokuapp.com/embed?v=Bsem4LljTr0)](https://youtu.be/Bsem4LljTr0 "Forward Kinematics: Kuka LWR")
+
+<img src="bar.jpg" alt="bar.jpg" width="1100" height="3"> <br>
+
+
+## Project -4 
+[![Kuka LWR: Cartesian Control](https://yt-embed.herokuapp.com/embed?v=mbzWmFVfj4I)](https://youtu.be/mbzWmFVfj4I "Cartesian Control: Kuka LWR")
